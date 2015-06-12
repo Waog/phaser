@@ -33,5 +33,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "typescript": {
+    "definition": [
+      "typescript/phaser.comments.d.ts"
+    ]
+  }
 }
